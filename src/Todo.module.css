@@ -1,0 +1,16 @@
+.todo{
+    border: 2px solid black;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin: 1rem;    
+}
+.completed{
+    text-decoration: line-through;   
+}
+.buttonWrapper{
+    display: flex;
+    gap: 1rem;
+}
+.buttonWrapper button{
+    width: 100x;
+}
